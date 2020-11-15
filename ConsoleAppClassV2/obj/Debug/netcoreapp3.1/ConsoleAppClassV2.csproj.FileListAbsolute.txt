@@ -1,0 +1,13 @@
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.exe
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.deps.json
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.runtimeconfig.json
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.runtimeconfig.dev.json
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.dll
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\bin\Debug\netcoreapp3.1\ConsoleAppClassV2.pdb
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.csprojAssemblyReference.cache
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.AssemblyInfoInputs.cache
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.AssemblyInfo.cs
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.csproj.CoreCompileInputs.cache
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.dll
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.pdb
+C:\Users\rich1\RiderProjects\ConsoleAppClassV2\ConsoleAppClassV2\obj\Debug\netcoreapp3.1\ConsoleAppClassV2.genruntimeconfig.cache
